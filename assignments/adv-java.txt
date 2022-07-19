@@ -14,3 +14,4 @@ ASSIGNMENT 01: Build Java Console based Account Management App which below funca
 				8] Export [exports Account details to file]
 				9] Exit
 
+ASSIGNMENT 02: Enhance Account Management App to import and export the details as separate threads
