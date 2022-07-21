@@ -1,0 +1,54 @@
+fujitsu_javabootcamp
+	|
+	|____	labs
+			|
+			|__java
+					|					
+					|___ adv-java-labs
+					|					
+					|___ jdbc-labs					
+			|
+			|__springcore
+					|					
+					|___ sring-core-labs
+			|
+			|__springmvc
+					|					
+					|___ spring-mvc-labs			
+			|
+			|__springrest
+					|					
+					|___ spring-rest-labs			
+			|
+			|__springboot
+					|					
+					|___ spring-boot-labs				
+
+	|
+	|____ 	assignments
+				|
+				|__java	
+										
+					|___account-mgmt-with-collection
+				    |
+					 __ account-mgmt-with-impexp
+					|
+					 __ account-mgmt-with-jdbc
+					|
+					 __ account-mgmt-with-stats
+				|
+				|__springcore
+					|
+					|account-mgmt-with-spring-core
+				|
+				|__sprngmvc
+					|
+					|account-mgmt-with-spring-mvc
+				|
+				|__springrest
+					|
+					|account-mgmt-with-spring-rest
+				|
+				|__springboot
+					|
+					|account-mgmt-with-spring-boot	

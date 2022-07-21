@@ -168,3 +168,5 @@ Object Oriented Programming
 		- hashCode()
 		- equals()
 		- toString()
+		
+Reference: https://docs.oracle.com/javase/tutorial/			
