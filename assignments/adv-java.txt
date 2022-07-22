@@ -15,3 +15,10 @@ ASSIGNMENT 01: Build Java Console based Account Management App which below funca
 				9] Exit
 
 ASSIGNMENT 02: Enhance Account Management App to import and export the details as separate threads
+ASSIGNMENT 03: Enhance Account Management App to persist data into Database with JDBC integration
+ASSIGNMENT 03: Enhance Account Management App to do validation using Lambda Expressions and print below stats using Stream API
+				a] No of accounts which has balance more than 1 lac
+				b] Show no of account by account type
+				c] Show no of accounts by account type with sorting
+				d] Show avg balance by account type
+				e] List account ids whose account name contains given name

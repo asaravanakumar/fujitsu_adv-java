@@ -1,0 +1,35 @@
+
+Package
+=======
+
+com
+  |
+  |___ fujitsu
+          |
+		  |______ empapp
+					|
+					|_____ EmployeeMain
+					
+					|
+					|______ service
+							|
+							|_____ EmployeeService
+							|
+							|_____ EmployeeServiceColImpl
+								
+					|
+					|_______ model
+							   |
+							   |____ Employee
+					|
+					|_______ dao
+							  |
+							  |_____ EmployeeDao
+							  |
+							  |_____ EmployeeDaoJdbcImpl
+					|
+					|_______ exception
+							  |
+							  |_____ EmployeeException
+					|
+					|_______ util
